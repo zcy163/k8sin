@@ -1,2 +1,2 @@
-FROM haproxy:latest
+FROM haproxy
 MAINTAINER Q
